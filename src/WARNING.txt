@@ -1,0 +1,26 @@
+================================================================
+     🔒 DeltaEncryption Tool - Important Information 🔓
+================================================================
+
+**Description:**
+DeltaEncryption Tool is an application for encrypting and decrypting text files
+using various algorithms and security phases. This tool allows users to protect 
+their data with an optional password and layered encryption.
+
+================================================================
+**Important Warnings:**
+- **Do not manually modify the contents of the `.enc` or `key.txt` files.**
+  This may cause decryption to fail.
+- **Loss of the `key.txt` file will make decryption impossible.**
+  Ensure that you store this file securely.
+- **The application is not responsible for any file loss or modification.**
+
+================================================================
+**Additional Information:**
+- All encrypted files will be packaged in a `.zip` file for easier distribution.
+- The key file (`key.txt`) must be included with the `.enc` file for the decryption process.
+- Contact the developer if you encounter any bugs or issues with the application.
+
+================================================================
+         © 2024 Delta Studios | All Rights Reserved
+================================================================
